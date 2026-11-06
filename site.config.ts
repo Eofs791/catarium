@@ -48,7 +48,7 @@ export default defineSiteConfig({
       color: 'black'
     }
   ],
-  
+
   orderBy: 'updated',
 
   search: {
