@@ -2,6 +2,7 @@
 title: 友人帐
 keywords: 链接
 description: 友人帐
+mine: /json/friends/mine.json
 friend: /json/friends/friend.json
 idol: /json/friends/idol.json
 icon: i-ri-links-fill
@@ -16,8 +17,11 @@ nav: false
 <YunLinks :links="frontmatter.friend" :random="frontmatter.random" />
 
 #### 单向链接
-不交换友链或者暂时单向的站点，如果成为双向友链会移至前面。
+仅收藏
 <YunLinks :links="frontmatter.idol" :random="frontmatter.random" />
+
+#### 一些我的站点
+<YunLinks :links="frontmatter.mine" :random="false" />
 
 #### 友链申请
 [关于我](/about) | [关于本站](/about/site)
@@ -38,8 +42,9 @@ nav: false
 任意形式提供以下信息即可
 ```json
 "url": "博客URL",
-"avatar": "头像URL",
-"name": "博主名称",
+"avatar": "头像URL"，
 "blog": "博客名称",
-"desc": "博客描述",
+"name": "（可选）博主名称，hover卡片时显示",
+"desc": "（可选）博客描述",
+"color": "（可选）链接卡片颜色"
 ```

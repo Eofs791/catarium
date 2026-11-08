@@ -17,12 +17,12 @@ export default defineValaxyConfig<UserThemeConfig>({
 
   themeConfig: {
     colors: {
-      primary: '#F5A9B8',
+      primary: '#8888cc',
     },
 
     fireworks: {
       enable: true,
-      colors: ['#FFC1CC', '#F48CA9', '#E06C8C']
+      colors: ['#6A6AB8', '#9E9EE6', '#D4D4F7']
     },
 
     banner: {

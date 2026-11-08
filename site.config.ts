@@ -7,14 +7,14 @@ export default defineSiteConfig({
   subtitle:'',
   author: {
     name: 'Eofs',
-    avatar: '/avatar.svg',
+    avatar: 'https://avatars.githubusercontent.com/u/91895588?s=460',
     status: {
       emoji: '💤',
       message: '冬眠中...'
     },
     intro: ''
   },
-  description: '',
+  description: '这个人很懒，什么都没有写',
   favicon: '/favicon.svg',
   social: [
     {

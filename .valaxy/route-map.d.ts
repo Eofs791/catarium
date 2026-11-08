@@ -415,7 +415,7 @@ declare module 'vue-router/auto-routes' {
    * @internal
    */
   export interface _RouteFileInfoMap {
-    'node_modules/.pnpm/valaxy-theme-yun@1.1.0_magi_718fc7bac8a0db5ef7bbab994cd46d6b/node_modules/valaxy-theme-yun/pages/index.vue': {
+    'node_modules/.pnpm/valaxy-theme-yun@1.2.1_magi_c2fd5e660fbf19b3741a6f3942fefd95/node_modules/valaxy-theme-yun/pages/index.vue': {
       routes:
         | '/'
       views:
@@ -423,7 +423,7 @@ declare module 'vue-router/auto-routes' {
       pathParamNames:
         | never
     }
-    'node_modules/.pnpm/valaxy@1.1.0_@devframes+age_7373fdfe700884987359788301511473/node_modules/valaxy/client/pages/[...path].vue': {
+    'node_modules/.pnpm/valaxy@1.2.1_@devframes+age_404b116f151fd2444081375080af82f5/node_modules/valaxy/client/pages/[...path].vue': {
       routes:
         | '/[...path]'
       views:
@@ -551,7 +551,7 @@ declare module 'vue-router/auto-routes' {
       pathParamNames:
         | never
     }
-    'node_modules/.pnpm/valaxy-theme-yun@1.1.0_magi_718fc7bac8a0db5ef7bbab994cd46d6b/node_modules/valaxy-theme-yun/pages/page/[page].vue': {
+    'node_modules/.pnpm/valaxy-theme-yun@1.2.1_magi_c2fd5e660fbf19b3741a6f3942fefd95/node_modules/valaxy-theme-yun/pages/page/[page].vue': {
       routes:
         | '/page/[page]'
       views:
@@ -559,7 +559,7 @@ declare module 'vue-router/auto-routes' {
       pathParamNames:
         | 'page'
     }
-    'node_modules/.pnpm/valaxy-theme-yun@1.1.0_magi_718fc7bac8a0db5ef7bbab994cd46d6b/node_modules/valaxy-theme-yun/pages/posts/index.vue': {
+    'node_modules/.pnpm/valaxy-theme-yun@1.2.1_magi_c2fd5e660fbf19b3741a6f3942fefd95/node_modules/valaxy-theme-yun/pages/posts/index.vue': {
       routes:
         | '/posts/'
       views:
