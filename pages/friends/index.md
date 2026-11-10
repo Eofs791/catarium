@@ -30,8 +30,9 @@ nav: false
 友链申请的要求与大部分博客相同，一般来者不拒
 
 ##### 我的博客信息：
-```json
-"url": "https://saikai.moe",
+```jsonc
+// 前者为主站，非博客本体，所以两个地址均可~
+"url": "https://saikai.moe" | "https://blog.saikai.moe",
 "avatar": "https://saikai.moe/avatar.svg",
 "name": "见崎美咲",
 "blog": "Catarium",
@@ -40,7 +41,7 @@ nav: false
 
 ##### 友链交换格式
 任意形式提供以下信息即可
-```json
+```jsonc
 "url": "博客URL",
 "avatar": "头像URL"，
 "blog": "博客名称",
