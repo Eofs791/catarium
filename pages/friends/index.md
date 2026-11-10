@@ -33,10 +33,10 @@ nav: false
 ```jsonc
 // 前者为主站，非博客本体，所以两个地址均可~
 "url": "https://saikai.moe" | "https://blog.saikai.moe",
-"avatar": "https://saikai.moe/avatar.svg",
-"name": "见崎美咲",
-"blog": "Catarium",
-"desc": "见崎的猫箱",
+"avatar": "https://avatars.githubusercontent.com/u/91895588?s=128",
+"name": "Eofs",
+"blog": "-arium",
+"desc": "もしもここからまた出会えるのなら",
 ```
 
 ##### 友链交换格式
